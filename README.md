@@ -6,7 +6,7 @@ This project dives deep into customer behavior using Power BI, analyzing a massi
 The goal? To uncover hidden patterns in how people order, spend, and choose their food.
 
 ## 🎯 Objectives
-- Understand income-based ordering behavior 💰
-- Identify seasonal trends & demand fluctuations 📉
-- Analyze popular cuisines & customer preferences 🍜🍕
-- Discover insights that can improve marketing strategies 🚀
+- Understand income-based ordering behavior 
+- Identify seasonal trends & demand fluctuations 
+- Analyze popular cuisines & customer preferences 
+- Discover insights that can improve marketing strategies 
