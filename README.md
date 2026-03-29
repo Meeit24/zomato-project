@@ -1,7 +1,5 @@
 # 🍽️ Zomato Customer Analytics (Power BI)
 
-Turning raw data into meaningful stories that drive smarter decisions 📊✨
-
 ## 📌 Overview
 
 This project dives deep into customer behavior using Power BI, analyzing a massive dataset of 148,672 orders generating nearly ₹987M in revenue.
